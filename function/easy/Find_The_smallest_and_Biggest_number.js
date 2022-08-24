@@ -1,4 +1,4 @@
-1/* Create a function that takes an array of numbers and return both the minimum and maximum numbers, in that order.
+/* Create a function that takes an array of numbers and return both the minimum and maximum numbers, in that order.
 
 Examples
 minMax([1, 2, 3, 4, 5]) ➞ [1, 5]
